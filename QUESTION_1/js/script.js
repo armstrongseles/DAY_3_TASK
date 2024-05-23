@@ -1,3 +1,4 @@
+
 function reqListener() {
 
     const countryArr = JSON.parse(this.responseText);
